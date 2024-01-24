@@ -8,16 +8,12 @@
 <h3 align="left">📞 How to reach me 📞</h3>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <a href="mailto:hailim101@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
     <a href="https://www.linkedin.com/in/heyrimioi/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"> 
     </a>
-    <a href="https://www.instagram.com/kwonbi_">
-        <img src="https://img.shields.io/badge/
-        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
+
 
 <h3 align="left">⚒️ Once I've used ⚒️</h3>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
