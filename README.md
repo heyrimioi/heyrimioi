@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to Hyelim's Github</h1>
-<h3 align="center">I'm a passionate data scientist from South Korea</h3>
+<h1 align="left">👋 Welcome to Hyelim's Github</h1>
+<h3 align="left">🙋‍♀️ I'm a passionate data scientist from South Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyrimioi&label=Profile%20views&color=0e75b6&style=flat" alt="heyrimioi" /> </p>
 
@@ -62,5 +62,5 @@
 
 <h3 align="left">📊 Github Stat 📊</h3>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-[![Hyelim's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyrimioi)](https://github.com/anuraghazra/github-readme-stats)
+[![Hyelim's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyrimioi)](https://github.com/heyrimioi/github-readme-stats)
 
