@@ -62,6 +62,6 @@
 
 <h3 align="left">📊 Github Stat 📊</h3>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?
+[![Hyelim's GitHub stats](https://github-readme-stats.vercel.app/api?
 username=heyrimioi&include_all_commits=true&show_icons=true&theme=cobalt)]
 (https://github.com/heyrimioi/github-readme-stats)
