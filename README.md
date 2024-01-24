@@ -15,7 +15,7 @@
     </a>
 
 
-<h3 align="left">⚒️ Once I've used ⚒️</h3>
+<h3 align="left">⚒️ Technical Skills ⚒️</h3>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Programming Languages -->
     <p><strong>Programming Languages</strong></p>
