@@ -29,7 +29,7 @@
         <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
     </div>
     <!-- ML & AI -->
-    <p><strong>Server</strong></p>
+    <p><strong>ML & AI</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"> 
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white">
